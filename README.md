@@ -1,5 +1,17 @@
 # Latest-Marlin-printrboard
 
+## Clonar la última version de Marlin
+
+Al día de hoy 20210521 es el branch 2.0.x
+
+```
+git clone https://github.com/MarlinFirmware/Marlin.git
+```
+
+```
+git checkout 2.0.x
+```
+
 ## Como usar dfu-programmer
 
 Estando en el path del repositorio de Marlin
